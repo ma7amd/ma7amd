@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working deeply on any technology related to Azure and Cloud computing in general.
+- 🌱 I’m currently learning Azure
+- 💬 Ask me about Azure related integration issues.
+- 📫 You may reach me here on chat, issue comments or over my social account.
 <!--
 **ma7amd/ma7amd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
