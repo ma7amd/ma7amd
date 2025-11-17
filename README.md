@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working deeply on any technology related to Azure and Cloud computing in general.
-- 🌱 I’m currently learning Azure
+- 🌱 I’m currently progressing on AI and related technologies.
 - 💬 Ask me about Azure related integration issues.
 - 📫 You may reach me here on chat, issue comments or over my social account.
 <!--
